@@ -2,7 +2,7 @@
 typedef struct {
 	char ime[20];
 	int stanje;
-	float ulog;
+	int ulog;
 	int dobitak;
 	int maxdobitak;
 }IGRAC;
